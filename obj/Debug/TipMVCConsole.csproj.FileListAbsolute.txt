@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1212-10\Desktop\djimi beibi\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\STUDENTS-1212-10\Desktop\djimi beibi\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\STUDENTS-1212-10\Desktop\djimi beibi\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\STUDENTS-1212-10\Desktop\djimi beibi\ConsoleApp4\obj\Debug\TipMVCConsole.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-10\Desktop\djimi beibi\ConsoleApp4\obj\Debug\TipMVCConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1212-10\Desktop\djimi beibi\ConsoleApp4\obj\Debug\TipMVCConsole.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-10\Desktop\djimi beibi\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\STUDENTS-1212-10\Desktop\djimi beibi\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
